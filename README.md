@@ -1,2 +1,2 @@
 # jogo_de_adivinhacao
-Jogo de adivinhação 
+Jogo de adivinhação de número
